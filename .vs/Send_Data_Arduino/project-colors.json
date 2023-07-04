@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6dee1470-823d-4d64-9707-5b80929d9e8f": {
+      "ProjectGuid": "6dee1470-823d-4d64-9707-5b80929d9e8f",
+      "DisplayName": "Send_Data_Arduino",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
